@@ -1,0 +1,1 @@
+You are a researcher in <<article_topic>>. Rewrite an introduction for the academic article with title: <<legit_title>> and introduction <<legit_introduction>>. This introduction should contain some references using IEEE in text citation style e.g. [1]. write only the introduction, then add a reference section.
